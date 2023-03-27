@@ -7,7 +7,7 @@ with open("style.css") as f:
 #####################
 # Header 
 st.write('''
-# Mert Erkan SoZEN, Ph.D.
+# Mert Erkan SÖZEN, Ph.D.
 ##### *Resume* 
 ''')
 
