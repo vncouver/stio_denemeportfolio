@@ -91,19 +91,28 @@ st.markdown('''
 ## Education
 ''')
 
-txt('**Doctor of Philosophy** (Social Science), *Yaşar University*, Turkey',
+txt('**Doctor of Philosophy** (Social Science), *Yasar University*, Turkey',
 '2017-2021')
 st.markdown('''
 - GPA: `3.89`
 - Research thesis entitled `Designing a clinical decision support system using artificial learning techniques for cardiovascular risk estimation in the health sector primary care`.
 ''')
 
-txt('**Bachelors of Science** (Biological Science), *Mahidol University International College*, Thailand',
-'1998-2002')
+txt('**Master of Science** (Social Science - MBA),  *Yasar University*, Turkey',
+'2010-2013')
 st.markdown('''
 - GPA: `3.65`
-- Graduated with First Class Honors.
+- 100% scholarship.
+- Research thesis entitled `Factors determining the brand preference of consumers in technology products`.
 ''')
+
+txt('**Bachelor of Science** (Faculty Of Engineering - Electrical-Electronics Engineering),  *Nigde University*, Turkey',
+'1999-2003')
+st.markdown('''
+- GPA: `3.65`
+''')
+
+
 
 #####################
 st.markdown('''
