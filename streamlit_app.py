@@ -91,13 +91,11 @@ st.markdown('''
 ## Education
 ''')
 
-txt('**Doctor of Philosophy** (Medical Technology), *Mahidol University*, Thailand',
-'2002-2006')
+txt('**Doctor of Philosophy** (Social Science), *Yaşar University*, Turkey',
+'2017-2021')
 st.markdown('''
 - GPA: `3.89`
-- Research thesis entitled `Computer-aided molecular design for biological and chemical applications : Quantum chemical and machine learning approach`.
-- Received Royal Golden Jubilee Ph.D. Scholarship of `2.152 million THB` covering tuition and stipend.
-- Thesis awarded `1st` Prize by the National Research Council of Thailand.
+- Research thesis entitled `Designing a clinical decision support system using artificial learning techniques for cardiovascular risk estimation in the health sector primary care`.
 ''')
 
 txt('**Bachelors of Science** (Biological Science), *Mahidol University International College*, Thailand',
